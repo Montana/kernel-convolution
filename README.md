@@ -1,2 +1,3 @@
-# pull-kernel
-Script I wrote that pulls kernel information (downloads, etc) for macOS
+# Reversing linked list (kernel)
+
+Using kernel convolution for reversing linked kernel list.
